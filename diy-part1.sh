@@ -19,4 +19,5 @@
 git clone https://github.com/sirpdboy/luci-app-ddns-go.git package/ddns-go
 git clone https://github.com/erdoukki/luci-app-arpbind.git package/arpbind
 git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/unblockneteasemusic
-git clone https://github.com/kuoruan/luci-app-v2ray.git package/v2ray
+git clone https://github.com/kuoruan/openwrt-v2ray.git package/v2ray-core
+git clone -b v2.0.0-1 https://github.com/kuoruan/luci-app-v2ray.git package/v2ray
